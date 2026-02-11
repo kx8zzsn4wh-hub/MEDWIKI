@@ -1,5 +1,7 @@
 ---
-title: Welcome to Quartz
+title: MEDWIKI
+tags:
+draft:
 ---
 
 This is a blank Quartz installation.
